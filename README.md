@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample E-Commerce App using Microservices Architecture
 **_A fictitious cloud-native e-commerce sample application using micro-services architecture powered by Spring Cloud, Docker, React.JS, MongoDB, Redis and more._**
 
@@ -100,3 +101,6 @@ Method | URI | Description | Parameters | Request JSON | Response JSON
 `GET` | */cart/{id}* | Fetches cart by id | None | _[TODO]_ |
 `POST` | */cart/{id}* | Creates or updates cart | _[TODO]_ | _[TODO]_ |
 
+=======
+# e-commerce-microservices
+>>>>>>> 62783aa418684553fcf270998b6e65e5505fdec9
